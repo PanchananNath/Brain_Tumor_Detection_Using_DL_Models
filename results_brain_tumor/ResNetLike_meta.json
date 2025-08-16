@@ -1,0 +1,5 @@
+{
+  "model_name": "ResNetLike",
+  "best_val_acc": 0.9632224168126094,
+  "epochs": 500
+}

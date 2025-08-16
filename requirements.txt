@@ -1,0 +1,6 @@
+#pip install 
+
+tensorflow
+matplotlib 
+seaborn 
+scikit-learn

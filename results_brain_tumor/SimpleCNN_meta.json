@@ -1,0 +1,5 @@
+{
+  "model_name": "SimpleCNN",
+  "best_val_acc": 0.9019264448336253,
+  "epochs": 500
+}

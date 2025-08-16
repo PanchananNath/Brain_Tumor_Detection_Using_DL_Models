@@ -1,0 +1,17 @@
+{
+  "SimpleCNN": {
+    "test_accuracy": 0.8390541571319603
+  },
+  "VGGLike": {
+    "test_accuracy": 0.8672768878718535
+  },
+  "ResNetLike": {
+    "test_accuracy": 0.9481311975591151
+  },
+  "SimpleDenseNetLike": {
+    "test_accuracy": 0.8337147215865751
+  },
+  "MobileNetLite": {
+    "test_accuracy": 0.9633867276887872
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "model_name": "MobileNetLite",
+  "best_val_acc": 0.978984238178634,
+  "epochs": 500
+}

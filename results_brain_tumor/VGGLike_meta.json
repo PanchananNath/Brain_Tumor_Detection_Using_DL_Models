@@ -1,0 +1,5 @@
+{
+  "model_name": "VGGLike",
+  "best_val_acc": 0.9264448336252189,
+  "epochs": 500
+}

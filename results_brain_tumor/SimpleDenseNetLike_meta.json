@@ -1,0 +1,5 @@
+{
+  "model_name": "SimpleDenseNetLike",
+  "best_val_acc": 0.8949211908931699,
+  "epochs": 500
+}
