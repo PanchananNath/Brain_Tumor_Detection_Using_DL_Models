@@ -3,7 +3,7 @@
 # 🧠 5 Custom DL Models for Brain Tumor Classification using PyTorch
 
 This repository contains an **end-to-end deep learning pipeline** for **brain tumor classification** implemented in **PyTorch**.  
-Developed by **Er. Panchanan Nath**, the project focuses on training **custom CNN-based models** (without using pretrained weights) for classifying brain tumor MRI images into 4 categories:
+Developed by **Er. Panchanan Nath**, the project focuses on training **custom deep learning models** for classifying brain tumor MRI images into 4 categories:
 
 - **Glioma**
 - **Meningioma**
@@ -18,9 +18,9 @@ Developed by **Er. Panchanan Nath**, the project focuses on training **custom CN
 - 🖼 **Data augmentation & preprocessing** with random flips, rotations, crops, and normalization.
 - 🧑‍🔬 **5 custom deep learning architectures** (from scratch):
   - ✅ `SimpleCNN`
-  - ✅ `VGGLike`
-  - ✅ `ResNetLike`
-  - ✅ `SimpleDenseNetLike`
+  - ✅ `VGGLite`
+  - ✅ `ResNetLite`
+  - ✅ `SimpleDenseNetLite`
   - ✅ `MobileNetLite`
 - ⚡ **Training & Validation** with:
   - GPU/CPU support  
