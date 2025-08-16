@@ -22,18 +22,22 @@ Developed by **Er. Panchanan Nath**, the project focuses on training **custom de
   - ✅ `ResNetLite`
   - ✅ `SimpleDenseNetLite`
   - ✅ `MobileNetLite`
+    
 - ⚡ **Training & Validation** with:
   - GPU/CPU support  
   - Learning rate scheduling  
-  - Best checkpoint saving  
+  - Best checkpoint saving
+   
 - 📊 **Evaluation & Metrics**:
   - Accuracy, Precision, Recall, F1-score
   - Confusion Matrix (raw + normalized)
   - Classification Reports
+    
 - 📈 **Visualization**:
   - Training curves (loss/accuracy)
   - Confusion matrix heatmaps
   - Sample predictions
+    
 - 💾 **Automatic saving**:
   - Trained models (`.pt`)
   - Training history (`.csv`)
@@ -46,9 +50,9 @@ Developed by **Er. Panchanan Nath**, the project focuses on training **custom de
 
 ```
 .
-├── BT.py                      # Main script
-├── Training/                  # Training dataset (ImageFolder format)
-├── Testing/                   # Testing dataset (ImageFolder format)
+├── BT.py                      # Python implemented codes
+├── Training/                  # Training dataset (Image format)
+├── Testing/                   # Testing dataset (Image format)
 ├── results_brain_tumor/       # Outputs (models, plots, reports)
 │   ├── SimpleCNN_best.pt
 │   ├── VGGLike_best.pt
@@ -68,7 +72,7 @@ Developed by **Er. Panchanan Nath**, the project focuses on training **custom de
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/brain-tumor-classification.git
+git clone https://github.com/PanchananNath/Brain_Tumor_Detection_Using_DL_Models.git
 cd brain-tumor-classification
 pip install -r requirements.txt
 ```
