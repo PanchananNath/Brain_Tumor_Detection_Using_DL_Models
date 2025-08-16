@@ -158,9 +158,9 @@ By default:
 ## 🧩 Models Implemented
 
 1. **SimpleCNN** – Classic 3-block CNN with dropout-based classifier.  
-2. **VGGLike** – Inspired by VGG16 but lighter, with sequential conv blocks.  
-3. **ResNetLike** – Residual blocks for deeper representation.  
-4. **SimpleDenseNetLike** – Dense connections (mini DenseNet style).  
+2. **VGGLite** – Inspired by VGG16 but lighter, with sequential conv blocks.  
+3. **ResNetLite** – Residual blocks for deeper representation.  
+4. **SimpleDenseNetLite** – Dense connections (mini DenseNet style).  
 5. **MobileNetLite** – Lightweight model using depthwise separable convolutions.  
 
 ---
