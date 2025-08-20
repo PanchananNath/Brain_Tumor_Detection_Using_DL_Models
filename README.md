@@ -1,7 +1,6 @@
 # 5 Custom DL Models for Brain Tumor Classification using PyTorch
 
-This repository contains an **end-to-end deep learning pipeline** for **brain tumor classification** implemented in **PyTorch**.  
-Developed by **Er. Panchanan Nath**, the project focuses on training **custom deep learning models** for classifying brain tumor MRI images into 4 categories:
+This repository contains an **five customize deep learning models** for **brain tumor classification** implemented in **PyTorch**. For classifying brain tumor MRI images into 4 categories:
 
 - **Glioma**
 - **Meningioma**
