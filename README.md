@@ -175,12 +175,6 @@ By default:
 
 The script automatically selects the **best performing model on test accuracy** and visualizes predictions.
 
----
-
-## ✨ Author
-
-**Er. Panchanan Nath**  
-🔬 AI/ML & Cybersecurity Researcher  
 
 ---
 
