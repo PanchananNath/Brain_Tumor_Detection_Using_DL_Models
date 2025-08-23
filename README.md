@@ -9,7 +9,7 @@ This repository contains an **five customize deep learning models** for **brain 
 
 ---
 
-## 🚀 Features
+## 🚀 Implementaed Features
 
 - 📂 **Automatic dataset loading** from `Training/` and `Testing/` directories using `torchvision.datasets.ImageFolder`.
 - 🖼 **Data augmentation & preprocessing** with random flips, rotations, crops, and normalization.
