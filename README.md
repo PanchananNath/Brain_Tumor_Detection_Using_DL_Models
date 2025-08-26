@@ -136,8 +136,8 @@ By default:
 - **Confusion Matrix (Example):**  
   ![cm](results_brain_tumor/SimpleCNN_cm.png)
 
-- **Sample Predictions:**  
-  ![pred](results_brain_tumor/SimpleCNN_sample_predictions.png)
+<!--- **Sample Predictions:**  
+  ![pred](results_brain_tumor/SimpleCNN_sample_predictions.png) -->
 
 - **Summary JSON:**  
   ```json
