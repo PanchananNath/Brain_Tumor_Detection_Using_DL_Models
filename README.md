@@ -180,4 +180,4 @@ The script automatically selects the **best performing model on test accuracy** 
 
 ## 📜 License
 
-This project is licensed under the **MIT License**.  
+This project is licensed under the **MIT License**
