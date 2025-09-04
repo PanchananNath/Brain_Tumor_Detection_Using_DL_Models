@@ -184,4 +184,4 @@ This project is licensed under the **MIT**
 
 ## Contribution 
 
-The repository is the experiment for the work 
+The repository is the experiment for the work PriBraTFedDL: Privacy-Aware Brain Tumor Diagnosis using Federated Deep Learning Framework
